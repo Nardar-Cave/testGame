@@ -5,6 +5,15 @@ Planejamento Inicial:
 <li>Controles de Movimento</li>
 <br>
 
+# System
+Modular:
+<li>Combat System</li>
+<li>Clima</li>
+<li>Detecção de Colisão</li>
+<li>Iluminação</li>
+<li>Efeitos da Água</li>
+<br>
+
 # Subsequente
 <li>Cenário: Oceano, Ondas e Vento</li>
 <li>Objetos: Barco, Arpão e Espada</li>
@@ -24,7 +33,7 @@ Planejamento Inicial:
 <br>
 
 # Lore/História
-
+<br>
 
 # Networking
 
