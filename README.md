@@ -7,7 +7,7 @@ Planejamento Inicial:
 
 # Subsequente
 <li>Cenário: Oceano, Ondas e Vento</li>
-<li>Objetos: Barco</li>
+<li>Objetos: Barco, Arpão e Espada</li>
 <li>Cenário: Skybox</li>
 <li>Cenário: Nuvens, Ventos, Tempestades, Raios e Chuvas</li>
 <br>
@@ -22,6 +22,9 @@ Planejamento Inicial:
 
 # OpenGL e PyGame
 <br>
+
+# Lore/História
+
 
 # Networking
 
