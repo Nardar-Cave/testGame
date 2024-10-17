@@ -49,3 +49,4 @@ Modular:
 # VFX
 <li>Search: Procurar objetos e models gratuitos</li>
 <li>Gráficos pixelados ao estilo de "Obra Dinn"</li>
+<li>Sparkling com o atrito entre metais</li>
